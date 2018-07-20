@@ -1,0 +1,14 @@
+<DataSet xmlns="http://www.bnr.ro/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bnr.ro/xsd nbrfxrates.xsd">
+<Header>
+<Denumire>ListaProduse</Denumire>
+</Header>
+<Body>
+<Cube date="2017-03-13">
+<Denumire> Pistoane </Denumire>
+<Piese date="cantitate">15</Piese>
+<Piese date="pret">10</Piese>
+<Piese date="valoare">150</Piese>
+
+</Cube>
+</Body>
+</DataSet>

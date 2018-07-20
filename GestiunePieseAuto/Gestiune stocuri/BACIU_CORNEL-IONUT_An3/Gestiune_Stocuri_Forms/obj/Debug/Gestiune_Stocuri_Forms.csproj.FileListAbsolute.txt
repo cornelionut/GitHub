@@ -1,0 +1,86 @@
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.exe.config
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.exe
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Gestiune.Stocuri.Clase.dll
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Gestiune.Stocuri.Clase.pdb
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.csprojResolveAssemblyReference.cache
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.AfisareProduse.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Comenzi.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.INTRARI.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.PaginaPrincipala.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.PreluareRaport.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Properties.Resources.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\GraficaSeminar7.RaportPieChart.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.csproj.GenerateResource.Cache
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.exe
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.pdb
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.pdb
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Logare.resources
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.exe.config
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.exe
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.pdb
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.csprojResolveAssemblyReference.cache
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.AfisareProduse.resources
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Comenzi.resources
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Logare.resources
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.INTRARI.resources
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.PaginaPrincipala.resources
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.PreluareRaport.resources
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Properties.Resources.resources
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\GraficaSeminar7.RaportPieChart.resources
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.csproj.GenerateResource.Cache
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.exe
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.pdb
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Gestiune.Stocuri.Clase.dll
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Gestiune.Stocuri.Clase.pdb
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.Form1.resources
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Database\studenti.mdb
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\studenti.mdb
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.FormInserare.resources
+C:\Users\corne\Desktop\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.TreePiese.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.Form1.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.FormInserare.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.TreePiese.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Database\piese.mdb
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune_Stocuri_Forms\Gestiune_Stocuri_Forms\bin\Debug\Database\utilizator.mdb
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.exe.config
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.exe
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.pdb
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Database\piese.mdb
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Database\utilizator.mdb
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.exe
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.pdb
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Gestiune.Stocuri.Clase.dll
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Gestiune.Stocuri.Clase.pdb
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.csprojResolveAssemblyReference.cache
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.AfisareProduse.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Comenzi.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.Form1.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.FormInserare.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Logare.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.INTRARI.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.PaginaPrincipala.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.PreluareRaport.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Properties.Resources.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\GraficaSeminar7.RaportPieChart.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.TreePiese.resources
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.csproj.GenerateResource.Cache
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.exe.config
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.exe
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.pdb
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Database\piese.mdb
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Database\utilizator.mdb
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.exe
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\bin\Debug\Gestiune_Stocuri_Forms.pdb
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.csprojResolveAssemblyReference.cache
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.AfisareProduse.resources
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Comenzi.resources
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.Form1.resources
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.FormInserare.resources
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Logare.resources
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.INTRARI.resources
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.PaginaPrincipala.resources
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\GestiuneStocuri.PreluareRaport.resources
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.Properties.Resources.resources
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\GraficaSeminar7.RaportPieChart.resources
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\WindowsFormsApplicationDB.TreePiese.resources
+C:\Users\Cornel\Desktop\PAW proiect\Gestiune stocuri\BACIU_CORNEL-IONUT_An3\Gestiune_Stocuri_Forms\obj\Debug\Gestiune_Stocuri_Forms.csproj.GenerateResource.Cache

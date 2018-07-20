@@ -1,0 +1,5 @@
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune.Stocuri.Clase\Gestiune.Stocuri.Clase\bin\Debug\Gestiune.Stocuri.Clase.dll
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune.Stocuri.Clase\Gestiune.Stocuri.Clase\bin\Debug\Gestiune.Stocuri.Clase.pdb
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune.Stocuri.Clase\Gestiune.Stocuri.Clase\obj\Debug\Gestiune.Stocuri.Clase.csprojResolveAssemblyReference.cache
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune.Stocuri.Clase\Gestiune.Stocuri.Clase\obj\Debug\Gestiune.Stocuri.Clase.dll
+C:\Users\corne\Documents\Visual Studio 2015\Projects\Gestiune stocuri\Gestiune.Stocuri.Clase\Gestiune.Stocuri.Clase\obj\Debug\Gestiune.Stocuri.Clase.pdb

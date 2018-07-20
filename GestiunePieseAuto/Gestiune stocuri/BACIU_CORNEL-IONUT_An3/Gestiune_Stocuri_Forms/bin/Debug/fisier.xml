@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Produse>
+  <Denumire produs> Pistoane </Denumire produs>
+  <Cantitate>15</Cantitate>
+  <Pret>10</Pret>
+  <Valoare>150</Valoare>
+</Produse>
